@@ -51,3 +51,7 @@ description: The Summary description
 <li>Requested content is retrieved from an index stored on a database.</li>
 <li>Content is pushed out from a storage location or accelerated service.</li>
 </ul>
+
+
+<h1>Recommender System</h1>
+Using Cosine Similarity a Recommender system is also created using the clusters of the text columns.
