@@ -3,6 +3,12 @@
 </p>
 <h1 align="center"> Netflix Movies and TV Shows Clustering </h1>
 
+<h2> In this project </h2>
+Exploratory Data Analysis
+Understanding what type content is available in different countries.
+Is Netflix has increasingly focusing on TV rather than movies in recent years.
+Clustering similar content by matching text-based features.
+
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
