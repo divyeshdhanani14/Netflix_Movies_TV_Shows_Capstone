@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="">
+  <img src="https://github.com/divyeshdhanani14/Netflix_Movies_TV_Shows_Capstone/blob/main/1152297.jpg">
 </p>
 <h1 align="center"> Netflix Movies and TV Shows Clustering </h1>
 
