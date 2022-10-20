@@ -32,8 +32,7 @@ Clustering similar content by matching text-based features.
 
 
 <h2> Attribute Information </h2>
-<code> Attribute Information:
-
+``` 
 show_id : Unique ID for every Movie / Tv Show
 type : Identifier - A Movie or TV Show
 title : Title of the Movie / Tv Show
@@ -46,5 +45,4 @@ rating : TV Rating of the movie / show
 duration : Total Duration - in minutes or number of seasons
 listed_in : Genere
 description: The Summary description
-  
-  </code>
+```
