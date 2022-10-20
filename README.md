@@ -33,15 +33,15 @@ Clustering similar content by matching text-based features.
 
 <h2> Attribute Information </h2>
 <code>
-show_id : Unique ID for every Movie / Tv Show
-type : Identifier - A Movie or TV Show
-title : Title of the Movie / Tv Show
-director : Director of the Movie
-cast : Actors involved in the movie / show
-country : Country where the movie / show was produced
-date_added : Date it was added on Netflix
-release_year : Actual Releaseyear of the movie / show
-rating : TV Rating of the movie / show
-duration : Total Duration - in minutes or number of seasons
-listed_in : Genere
-description: The Summary description</code>
+show_id : Unique ID for every Movie / Tv Show</code>
+<code>type : Identifier - A Movie or TV Show</code>
+<code>title : Title of the Movie / Tv Show</code>
+<code>director : Director of the Movie</code>
+<code>cast : Actors involved in the movie / show</code>
+<code>country : Country where the movie / show was produced</code>
+<code>date_added : Date it was added on Netflix</code>
+<code>release_year : Actual Releaseyear of the movie / show</code>
+<code>rating : TV Rating of the movie / show</code>
+<code>duration : Total Duration - in minutes or number of seasons</code>
+<code>listed_in : Genere</code>
+<code>description: The Summary description</code>
