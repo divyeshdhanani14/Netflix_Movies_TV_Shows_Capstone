@@ -11,9 +11,6 @@
 <li>Clustering similar content by matching text-based features.</li>
 </ul>
 
-
-
-
 <h2> Problem Statement </h2>
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
@@ -30,7 +27,7 @@ Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
 Clustering similar content by matching text-based features.
 
-<h2> Attribute </h2>
+<h2> Attribute Information :</h2>
   
 ``` 
 show_id : Unique ID for every Movie / Tv Show
@@ -46,3 +43,11 @@ duration : Total Duration - in minutes or number of seasons
 listed_in : Genere
 description: The Summary description
 ```
+
+<h2>Netflix Workflow</h2>
+<ul>
+<li>Content request made by subscriber.</li>
+<li>Resolvers pass the request to the Netflix domain’s authoritative server.</li>
+<li>Requested content is retrieved from an index stored on a database.</li>
+<li>Content is pushed out from a storage location or accelerated service.</li>
+</ul>
